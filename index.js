@@ -21,4 +21,4 @@ function wrapAdjective(wrap = "*") {
         return `You are ${wrap + niceCompliment + wrap}!`
     }
 }
-wrapAdjective("☆")("a dedicated programmer");
+wrapAdjective("☆")("a dedicated programmer"); 
